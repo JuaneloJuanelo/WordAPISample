@@ -1,0 +1,7 @@
+False
+c092cbdb-a283-42f4-9b96-88dd93f59d697a8d8fec-cbd4-4fed-a154-cef623fe5e1d
+{eb96ccaf-2646-4b96-88d5-dce9d3f3809c}{b6d329ce-f97f-41a5-ae8e-2f8c085ecc5e}
+{91c97919-4a22-470b-a2fb-1c62865f48f0}
+1.0.0.0
+WordAPIDocAssemblySample
+_layouts/15/
