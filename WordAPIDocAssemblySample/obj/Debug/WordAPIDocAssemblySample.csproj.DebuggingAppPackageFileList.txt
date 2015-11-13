@@ -1,2 +1,0 @@
-bin\Debug\OfficeAppManifests\WordAPIDocAssemblySampleManifest.xml
-c:\users\juanbl\documents\visual studio 2015\Projects\WordAPIDocAssemblySample\WordAPIDocAssemblySample\bin\Debug\WordAPIDocAssemblySample.debugapp
