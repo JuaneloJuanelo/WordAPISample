@@ -38,6 +38,7 @@ Here are more resources to help you create Word Javascript API based add-ins:
 * [Word add-ins programming overview](https://github.com/OfficeDev/office-js-docs/blob/master/word/word-add-ins-programming-guide.md)
 * [Snippet Explorer for Word](http://officesnippetexplorer.azurewebsites.net/#/snippets/word)
 * [Word add-ins JavaScript API Reference](https://github.com/OfficeDev/office-js-docs/tree/master/word/word-add-ins-javascript-reference)
+* [Silly stories Word add-in sample](https://github.com/OfficeDev/Word-Add-in-SillyStories)
 
 ## Copyright
 Copyright (c) 2015 Microsoft. All rights reserved.
