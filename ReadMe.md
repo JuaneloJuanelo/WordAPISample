@@ -1,4 +1,4 @@
-# Document assembly Word add-in sample: load files and use content controls
+# Document assembly Word add-in sample
 
 This Word add-in will show you how to:
 
