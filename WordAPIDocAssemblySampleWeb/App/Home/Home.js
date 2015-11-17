@@ -24,10 +24,14 @@
 
             // Configure Fabric NavBar
             $('.ms-NavBar').NavBar();
-            $('#teamBuilder').click(function showTb() { $('#tbPanel').show();                 
-                                                        $('#sowPanel').hide(); });
-            $('#docGen').click(function showDg() { $('#tbPanel').hide();                     
-                                                $('#sowPanel').show(); });
+            $('#teamBuilder').click(function showTb() { 
+                $('#tbPanel').show();                 
+                $('#sowPanel').hide(); 
+            });
+            $('#docGen').click(function showDg() { 
+                $('#tbPanel').hide();                     
+                $('#sowPanel').show(); 
+            });
             $('#docGen').trigger("click");
         });
     };
